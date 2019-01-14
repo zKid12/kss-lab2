@@ -1,0 +1,10 @@
+C:\Users\Никита\source\repos\calculate_kon\bin\Debug\calculate_kon.exe.config
+C:\Users\Никита\source\repos\calculate_kon\bin\Debug\calculate_kon.exe
+C:\Users\Никита\source\repos\calculate_kon\bin\Debug\calculate_kon.pdb
+C:\Users\Никита\source\repos\calculate_kon\obj\Debug\calculate_kon.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\calculate_kon\obj\Debug\calculate_kon.Кулькулятор.resources
+C:\Users\Никита\source\repos\calculate_kon\obj\Debug\calculate_kon.Properties.Resources.resources
+C:\Users\Никита\source\repos\calculate_kon\obj\Debug\calculate_kon.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\calculate_kon\obj\Debug\calculate_kon.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\calculate_kon\obj\Debug\calculate_kon.exe
+C:\Users\Никита\source\repos\calculate_kon\obj\Debug\calculate_kon.pdb
